@@ -2,7 +2,7 @@
 
 1. Clone the repo.
 ```bash
-git clone https://github.com/Abinash393/qustion-paper-gen.git
+git clone https://github.com/RaiyanArsh/Doctor-appt.git
 ```
 
 2. Add questions inside data object in question-store.json file. \
